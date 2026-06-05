@@ -60,7 +60,7 @@ exception
 4. Test APIs using Postman
 
 ## Hand Drawn Diagram
-![System Diagram](<img width="720" height="1599" alt="diagram png" src="https://github.com/user-attachments/assets/1e57a6da-1afb-441d-be59-75d39ee9ac9f" />)
+![System Diagram](diagram.png.jpeg1)
 
 
 ## Future Enhancements
